@@ -1,0 +1,6 @@
+This is a dummy file.
+
+Reasoning:
+
+GitHub doesn't support empty folders and we need a lib directory that stores the object files
+produced through compilation (initially it is empty). This file allows the existence of the folder.
